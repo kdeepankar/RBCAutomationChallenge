@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="10" ignored="0" total="10" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1103" started-at="2018-09-03T03:53:20Z" finished-at="2018-09-03T03:53:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1103" started-at="2018-09-03T03:53:20Z" finished-at="2018-09-03T03:53:21Z">
+      <class name="test.PurchaseTest">
+        <test-method status="PASS" signature="StartHTMLReporting()[pri:0, instance:test.PurchaseTest@5622fdf]" name="StartHTMLReporting" is-config="true" duration-ms="22" started-at="2018-09-03T03:53:20Z" finished-at="2018-09-03T03:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartHTMLReporting -->
+        <test-method status="FAIL" signature="navigate()[pri:0, instance:test.PurchaseTest@5622fdf]" name="navigate" duration-ms="96" started-at="2018-09-03T03:53:20Z" finished-at="2018-09-03T03:53:21Z">
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe
+at com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:137)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:156)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:346)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:91)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+at resources.base.initializeDriver(base.java:27)
+at test.PurchaseTest.navigate(PurchaseTest.java:35)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+        <test-method status="FAIL" signature="navigation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.PurchaseTest@5622fdf]" name="navigation" duration-ms="15" started-at="2018-09-03T03:53:21Z" data-provider="getData" finished-at="2018-09-03T03:53:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[goku@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kakarot]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[saiyan]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[121 richmond street]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[miss]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ON]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[L5R 3Z9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[6478958552]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe
+at com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:137)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:156)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:346)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:91)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+at resources.base.initializeDriver(base.java:27)
+at test.PurchaseTest.navigation(PurchaseTest.java:96)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method status="FAIL" signature="navigation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.PurchaseTest@5622fdf]" name="navigation" duration-ms="16" started-at="2018-09-03T03:53:21Z" data-provider="getData" finished-at="2018-09-03T03:53:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3.684568765E9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2.3423432E7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2.3423423E7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2.34234324E8]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[2.3432423234E10]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[234324.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[2.3423432423E10]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[2.3432423E7]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[9.82457894256894E+54]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe
+at com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:137)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:156)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:346)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:91)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+at resources.base.initializeDriver(base.java:27)
+at test.PurchaseTest.navigation(PurchaseTest.java:96)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method status="FAIL" signature="navigation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.PurchaseTest@5622fdf]" name="navigation" duration-ms="16" started-at="2018-09-03T03:53:21Z" data-provider="getData" finished-at="2018-09-03T03:53:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[swagat@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[wilson]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[65 howzard street ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ken]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ON]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[LE3 2M7]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[6478952554]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe
+at com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:137)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:156)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:346)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:91)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+at resources.base.initializeDriver(base.java:27)
+at test.PurchaseTest.navigation(PurchaseTest.java:96)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method status="FAIL" signature="navigation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.PurchaseTest@5622fdf]" name="navigation" duration-ms="0" started-at="2018-09-03T03:53:21Z" data-provider="getData" finished-at="2018-09-03T03:53:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[what@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[harry]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[skjlfghsukfghu sdkjg dsjgfdkjsdgfjsd fkjdh fskjdgf kjsgf skjtf skjdhfjksdhjflkhdslkjfhlkjasdhfkdsjgfjdagfkjsdgfkjshfskdfhsdlk;hfskjdtfhkjsdfhkjsdhfkjsdhfkjsdhfkjsdhfkjdshfkjsdhfkjshdflkjghsdkljgfdjkgkjdgjladgfuirwqyuriuwkjfdkjsadghfa;skhf;ksdjnfkjsdfbkjsdfjksdgfkjsdgfkjlsdbfsd fkjbsdfjkbdsbfdjskfbdsjkbfjdskgfkjdsbfjksdbflkjdsfblkjdsfjkdsfjdskfbjsdkbfkjdsbfksjdbfklsdbfkjsdbflkjdsbfkjldsbfkljsdbfkjldfghrjkehkjhdfkjbfdlkjbfnjklbfkjdsbfkjldsbfjkhdsfkjsdhfjkldshfkjdshfkjldfshkjfdshdsjkfhdskjflhdfskjhdsfjkhfdjahfkjdlfsh]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[den]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ON]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[K62 7Y9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe
+at com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:137)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:156)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:346)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:91)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+at resources.base.initializeDriver(base.java:27)
+at test.PurchaseTest.navigation(PurchaseTest.java:96)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method status="FAIL" signature="navigation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.PurchaseTest@5622fdf]" name="navigation" duration-ms="0" started-at="2018-09-03T03:53:21Z" data-provider="getData" finished-at="2018-09-03T03:53:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[okaynow@gmail.edu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bonjour]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[你好]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[tree street]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[missi]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ON]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[sjkdfgdsjfg]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[164783930303]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe
+at com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:137)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:156)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:346)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:91)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+at resources.base.initializeDriver(base.java:27)
+at test.PurchaseTest.navigation(PurchaseTest.java:96)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method status="FAIL" signature="navigation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.PurchaseTest@5622fdf]" name="navigation" duration-ms="0" started-at="2018-09-03T03:53:21Z" data-provider="getData" finished-at="2018-09-03T03:53:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[slam@gmail.io]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[john]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mcray]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[d]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Center]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ON]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Y52 8O2]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[985264751]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe
+at com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:137)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:156)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:346)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:91)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+at resources.base.initializeDriver(base.java:27)
+at test.PurchaseTest.navigation(PurchaseTest.java:96)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method status="FAIL" signature="navigation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.PurchaseTest@5622fdf]" name="navigation" duration-ms="0" started-at="2018-09-03T03:53:21Z" data-provider="getData" finished-at="2018-09-03T03:53:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[slam@gmail.net]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[flkfklsdjf]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[djnskjgfn]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dskjfnjksf]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[gsdgkn]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ON]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[dskjfdn]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[5464564565]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe
+at com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:137)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:156)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:346)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:91)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+at resources.base.initializeDriver(base.java:27)
+at test.PurchaseTest.navigation(PurchaseTest.java:96)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method status="FAIL" signature="navigation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.PurchaseTest@5622fdf]" name="navigation" duration-ms="16" started-at="2018-09-03T03:53:21Z" data-provider="getData" finished-at="2018-09-03T03:53:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mère@père.परिवार]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[slam]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[johnson]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[545 strreettt]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kitchner]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ON]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[LY7 7U8]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[4365456465]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe
+at com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:137)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:156)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:346)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:91)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+at resources.base.initializeDriver(base.java:27)
+at test.PurchaseTest.navigation(PurchaseTest.java:96)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method status="FAIL" signature="navigation(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.PurchaseTest@5622fdf]" name="navigation" duration-ms="0" started-at="2018-09-03T03:53:21Z" data-provider="getData" finished-at="2018-09-03T03:53:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[狗@馬.猴]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[克己]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[死神]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[中華民國]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[人民東街]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[省]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[China]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[650031]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[8656886r4546]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.IllegalStateException">
+            <message>
+              <![CDATA[The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalStateException: The driver executable does not exist: C:\RBCAutomationChallenge\src\main\java\webdrivers\chromedriver.exe
+at com.google.common.base.Preconditions.checkState(Preconditions.java:585)
+at org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:137)
+at org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:132)
+at org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:35)
+at org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:156)
+at org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:346)
+at org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:91)
+at org.openqa.selenium.chrome.ChromeDriver.<init>(ChromeDriver.java:123)
+at resources.base.initializeDriver(base.java:27)
+at test.PurchaseTest.navigation(PurchaseTest.java:96)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalStateException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method status="PASS" signature="TerminateHTMLReporting()[pri:0, instance:test.PurchaseTest@5622fdf]" name="TerminateHTMLReporting" is-config="true" duration-ms="16" started-at="2018-09-03T03:53:21Z" finished-at="2018-09-03T03:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TerminateHTMLReporting -->
+      </class> <!-- test.PurchaseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,439 @@
+2018.42.02 09:42:07  STEP 1: Go to http://store.demoqa.com/
+2018.42.02 09:42:11  STEP 1: Go to http://store.demoqa.com/
+2018.42.02 09:42:11  End of Step 1
+2018.42.02 09:42:11  STEP 2: Go to Product category and select Accessories
+2018.42.02 09:42:15  STEP 2: Go to Product category and select Accessories
+2018.42.02 09:42:15  End of Step 2
+2018.42.02 09:42:15  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.42.02 09:42:15  # of items displaying in the cart before: 0
+2018.42.02 09:42:15  # of items displaying in the cart after: 0
+2018.42.02 09:42:15  # of items added to cart: 1
+2018.42.02 09:42:15  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.42.02 09:42:15  End of step 3 
+2018.42.02 09:42:15  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.42.02 09:42:18  # of items displaying in the cart after wait: 1
+2018.42.02 09:42:20  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.42.02 09:42:20  End of Step 4 & Step 5 combination
+2018.42.02 09:42:20  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.42.02 09:42:32  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.42.02 09:42:42  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.42.02 09:42:42  End of Step 6
+2018.42.02 09:42:42  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.42.02 09:42:42  Checkout Successful
+2018.42.02 09:42:42  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.42.02 09:42:42  End of Step 7
+2018.42.02 09:42:45  STEP 1: Go to http://store.demoqa.com/
+2018.42.02 09:42:49  STEP 1: Go to http://store.demoqa.com/
+2018.42.02 09:42:49  End of Step 1
+2018.42.02 09:42:49  STEP 2: Go to Product category and select Accessories
+2018.42.02 09:42:54  STEP 2: Go to Product category and select Accessories
+2018.42.02 09:42:54  End of Step 2
+2018.42.02 09:42:54  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.42.02 09:42:54  # of items displaying in the cart before: 0
+2018.42.02 09:42:54  # of items displaying in the cart after: 0
+2018.42.02 09:42:54  # of items added to cart: 1
+2018.42.02 09:42:54  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.42.02 09:42:54  End of step 3 
+2018.42.02 09:42:54  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.43.02 09:43:00  # of items displaying in the cart after wait: 1
+2018.43.02 09:43:03  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.43.02 09:43:03  End of Step 4 & Step 5 combination
+2018.43.02 09:43:03  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.43.02 09:43:13  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.43.02 09:43:13  Error while executing Step 6
+2018.43.02 09:43:13  End of Step 6
+2018.43.02 09:43:13  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.43.02 09:43:13  Checkout Failed
+2018.43.02 09:43:13  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.43.02 09:43:13  End of Step 7
+2018.43.02 09:43:16  STEP 1: Go to http://store.demoqa.com/
+2018.43.02 09:43:21  STEP 1: Go to http://store.demoqa.com/
+2018.43.02 09:43:21  End of Step 1
+2018.43.02 09:43:21  STEP 2: Go to Product category and select Accessories
+2018.43.02 09:43:24  STEP 2: Go to Product category and select Accessories
+2018.43.02 09:43:24  End of Step 2
+2018.43.02 09:43:24  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.43.02 09:43:24  # of items displaying in the cart before: 0
+2018.43.02 09:43:25  # of items displaying in the cart after: 0
+2018.43.02 09:43:25  # of items added to cart: 1
+2018.43.02 09:43:25  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.43.02 09:43:25  End of step 3 
+2018.43.02 09:43:25  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.43.02 09:43:27  # of items displaying in the cart after wait: 1
+2018.43.02 09:43:29  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.43.02 09:43:29  End of Step 4 & Step 5 combination
+2018.43.02 09:43:29  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.43.02 09:43:37  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.43.02 09:43:37  Error while executing Step 6
+2018.43.02 09:43:37  End of Step 6
+2018.43.02 09:43:37  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.43.02 09:43:37  Checkout Failed
+2018.43.02 09:43:37  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.43.02 09:43:37  End of Step 7
+2018.43.02 09:43:39  STEP 1: Go to http://store.demoqa.com/
+2018.43.02 09:43:44  STEP 1: Go to http://store.demoqa.com/
+2018.43.02 09:43:44  End of Step 1
+2018.43.02 09:43:44  STEP 2: Go to Product category and select Accessories
+2018.43.02 09:43:47  STEP 2: Go to Product category and select Accessories
+2018.43.02 09:43:47  End of Step 2
+2018.43.02 09:43:47  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.43.02 09:43:47  # of items displaying in the cart before: 0
+2018.43.02 09:43:48  # of items displaying in the cart after: 0
+2018.43.02 09:43:48  # of items added to cart: 1
+2018.43.02 09:43:48  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.43.02 09:43:48  End of step 3 
+2018.43.02 09:43:48  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.43.02 09:43:50  # of items displaying in the cart after wait: 1
+2018.43.02 09:43:52  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.43.02 09:43:52  End of Step 4 & Step 5 combination
+2018.43.02 09:43:52  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.44.02 09:44:01  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.44.02 09:44:01  Error while executing Step 6
+2018.44.02 09:44:01  End of Step 6
+2018.44.02 09:44:01  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.44.02 09:44:01  Checkout Failed
+2018.44.02 09:44:01  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.44.02 09:44:02  End of Step 7
+2018.44.02 09:44:05  STEP 1: Go to http://store.demoqa.com/
+2018.44.02 09:44:10  STEP 1: Go to http://store.demoqa.com/
+2018.44.02 09:44:11  End of Step 1
+2018.44.02 09:44:11  STEP 2: Go to Product category and select Accessories
+2018.44.02 09:44:14  STEP 2: Go to Product category and select Accessories
+2018.44.02 09:44:14  End of Step 2
+2018.44.02 09:44:14  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.44.02 09:44:14  # of items displaying in the cart before: 0
+2018.44.02 09:44:15  # of items displaying in the cart after: 0
+2018.44.02 09:44:15  # of items added to cart: 1
+2018.44.02 09:44:15  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.44.02 09:44:15  End of step 3 
+2018.44.02 09:44:15  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.44.02 09:44:18  # of items displaying in the cart after wait: 1
+2018.44.02 09:44:21  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.44.02 09:44:21  End of Step 4 & Step 5 combination
+2018.44.02 09:44:21  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.44.02 09:44:36  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.44.02 09:44:46  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.44.02 09:44:46  End of Step 6
+2018.44.02 09:44:46  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.44.02 09:44:46  Checkout Successful
+2018.44.02 09:44:46  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.44.02 09:44:46  End of Step 7
+2018.44.02 09:44:50  STEP 1: Go to http://store.demoqa.com/
+2018.44.02 09:44:57  STEP 1: Go to http://store.demoqa.com/
+2018.44.02 09:44:57  End of Step 1
+2018.44.02 09:44:57  STEP 2: Go to Product category and select Accessories
+2018.45.02 09:45:01  STEP 2: Go to Product category and select Accessories
+2018.45.02 09:45:01  End of Step 2
+2018.45.02 09:45:01  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.45.02 09:45:01  # of items displaying in the cart before: 0
+2018.45.02 09:45:01  # of items displaying in the cart after: 0
+2018.45.02 09:45:01  # of items added to cart: 1
+2018.45.02 09:45:01  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.45.02 09:45:01  End of step 3 
+2018.45.02 09:45:01  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.45.02 09:45:03  # of items displaying in the cart after wait: 1
+2018.45.02 09:45:05  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.45.02 09:45:05  End of Step 4 & Step 5 combination
+2018.45.02 09:45:05  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.45.02 09:45:20  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.45.02 09:45:31  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.45.02 09:45:31  End of Step 6
+2018.45.02 09:45:31  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.45.02 09:45:31  Checkout Successful
+2018.45.02 09:45:31  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.45.02 09:45:31  End of Step 7
+2018.45.02 09:45:34  STEP 1: Go to http://store.demoqa.com/
+2018.45.02 09:45:38  Error while executing STEP 1: Go to http://store.demoqa.com/
+2018.45.02 09:45:38  End of Step 1
+2018.45.02 09:45:38  STEP 2: Go to Product category and select Accessories
+2018.45.02 09:45:44  Error while hover over the element, element was not found!
+2018.45.02 09:45:45  Error while executing STEP 2: Go to Product category and select Accessories org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-S8RPS5V', ip: '10.138.112.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\deepa\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:55893}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 833c48addfb69d78d69839dc5463116e
+*** Element info: {Using=xpath, value=//li[@id='menu-item-33']}
+2018.45.02 09:45:45  STEP 2: Go to Product category and select Accessories
+2018.45.02 09:45:45  End of Step 2
+2018.45.02 09:45:45  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.45.02 09:45:51  Error while executing STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.45.02 09:45:51  End of step 3 
+2018.45.02 09:45:51  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.45.02 09:45:57  Error while executing Step 4 & Step 5 combination
+2018.45.02 09:45:57  End of Step 4 & Step 5 combination
+2018.45.02 09:45:57  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.46.02 09:46:03  Error while executing Step 6
+2018.46.02 09:46:09  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.46.02 09:46:09  End of Step 6
+2018.46.02 09:46:09  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.46.02 09:46:15  Error while executing Step 7
+2018.46.02 09:46:15  End of Step 7
+2018.46.02 09:46:17  STEP 1: Go to http://store.demoqa.com/
+2018.46.02 09:46:23  STEP 1: Go to http://store.demoqa.com/
+2018.46.02 09:46:23  End of Step 1
+2018.46.02 09:46:23  STEP 2: Go to Product category and select Accessories
+2018.46.02 09:46:27  STEP 2: Go to Product category and select Accessories
+2018.46.02 09:46:27  End of Step 2
+2018.46.02 09:46:27  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.46.02 09:46:27  # of items displaying in the cart before: 0
+2018.46.02 09:46:27  # of items displaying in the cart after: 0
+2018.46.02 09:46:27  # of items added to cart: 1
+2018.46.02 09:46:27  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.46.02 09:46:27  End of step 3 
+2018.46.02 09:46:27  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.46.02 09:46:30  # of items displaying in the cart after wait: 1
+2018.46.02 09:46:32  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.46.02 09:46:32  End of Step 4 & Step 5 combination
+2018.46.02 09:46:32  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.46.02 09:46:42  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.46.02 09:46:42  Error while executing Step 6
+2018.46.02 09:46:42  End of Step 6
+2018.46.02 09:46:42  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.46.02 09:46:43  Checkout Failed
+2018.46.02 09:46:43  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.46.02 09:46:43  End of Step 7
+2018.46.02 09:46:45  STEP 1: Go to http://store.demoqa.com/
+2018.46.02 09:46:47  Error while executing STEP 1: Go to http://store.demoqa.com/
+2018.46.02 09:46:47  End of Step 1
+2018.46.02 09:46:47  STEP 2: Go to Product category and select Accessories
+2018.46.02 09:46:53  Error while hover over the element, element was not found!
+2018.46.02 09:46:53  Error while executing STEP 2: Go to Product category and select Accessories org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=68.0.3440.106)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DESKTOP-S8RPS5V', ip: '10.138.112.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.41.578737 (49da6702b16031..., userDataDir: C:\Users\deepa\AppData\Loca...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:56126}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 68.0.3440.106, webStorageEnabled: true}
+Session ID: 6dc56a9af0d37e837e6d73c203bfc4cb
+*** Element info: {Using=xpath, value=//li[@id='menu-item-33']}
+2018.46.02 09:46:53  STEP 2: Go to Product category and select Accessories
+2018.46.02 09:46:53  End of Step 2
+2018.46.02 09:46:53  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.46.02 09:46:59  Error while executing STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.46.02 09:46:59  End of step 3 
+2018.46.02 09:46:59  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.29.02 10:29:44  STEP 1: Go to http://store.demoqa.com/
+2018.29.02 10:29:49  STEP 1: Go to http://store.demoqa.com/
+2018.29.02 10:29:49  End of Step 1
+2018.29.02 10:29:49  STEP 2: Go to Product category and select Accessories
+2018.29.02 10:29:52  STEP 2: Go to Product category and select Accessories
+2018.29.02 10:29:52  End of Step 2
+2018.29.02 10:29:52  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.29.02 10:29:52  # of items displaying in the cart before: 0
+2018.29.02 10:29:52  # of items displaying in the cart after: 0
+2018.29.02 10:29:52  # of items added to cart: 1
+2018.29.02 10:29:52  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.29.02 10:29:52  End of step 3 
+2018.29.02 10:29:52  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.29.02 10:29:54  # of items displaying in the cart after wait: 1
+2018.29.02 10:29:57  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.29.02 10:29:57  End of Step 4 & Step 5 combination
+2018.29.02 10:29:57  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.30.02 10:30:27  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.30.02 10:30:37  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.30.02 10:30:37  End of Step 6
+2018.30.02 10:30:37  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.30.02 10:30:37  Checkout Successful
+2018.30.02 10:30:37  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.30.02 10:30:37  End of Step 7
+2018.30.02 10:30:40  STEP 1: Go to http://store.demoqa.com/
+2018.30.02 10:30:50  STEP 1: Go to http://store.demoqa.com/
+2018.30.02 10:30:50  End of Step 1
+2018.30.02 10:30:50  STEP 2: Go to Product category and select Accessories
+2018.31.02 10:31:01  STEP 2: Go to Product category and select Accessories
+2018.31.02 10:31:01  End of Step 2
+2018.31.02 10:31:01  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.31.02 10:31:01  # of items displaying in the cart before: 0
+2018.31.02 10:31:01  # of items displaying in the cart after: 0
+2018.31.02 10:31:01  # of items added to cart: 1
+2018.31.02 10:31:01  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.31.02 10:31:01  End of step 3 
+2018.31.02 10:31:01  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.31.02 10:31:10  # of items displaying in the cart after wait: 1
+2018.31.02 10:31:13  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.31.02 10:31:13  End of Step 4 & Step 5 combination
+2018.31.02 10:31:13  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.31.02 10:31:29  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.31.02 10:31:29  Error while executing Step 6
+2018.31.02 10:31:29  End of Step 6
+2018.31.02 10:31:29  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.31.02 10:31:29  Checkout Failed
+2018.31.02 10:31:29  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.31.02 10:31:29  End of Step 7
+2018.31.02 10:31:32  STEP 1: Go to http://store.demoqa.com/
+2018.31.02 10:31:36  STEP 1: Go to http://store.demoqa.com/
+2018.31.02 10:31:36  End of Step 1
+2018.31.02 10:31:36  STEP 2: Go to Product category and select Accessories
+2018.31.02 10:31:40  STEP 2: Go to Product category and select Accessories
+2018.31.02 10:31:40  End of Step 2
+2018.31.02 10:31:40  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.31.02 10:31:40  # of items displaying in the cart before: 0
+2018.31.02 10:31:40  # of items displaying in the cart after: 0
+2018.31.02 10:31:40  # of items added to cart: 1
+2018.31.02 10:31:40  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.31.02 10:31:40  End of step 3 
+2018.31.02 10:31:40  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.31.02 10:31:44  # of items displaying in the cart after wait: 1
+2018.31.02 10:31:46  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.31.02 10:31:46  End of Step 4 & Step 5 combination
+2018.31.02 10:31:46  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.31.02 10:31:57  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.31.02 10:31:57  Error while executing Step 6
+2018.31.02 10:31:57  End of Step 6
+2018.31.02 10:31:57  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.31.02 10:31:57  Checkout Failed
+2018.31.02 10:31:57  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.31.02 10:31:57  End of Step 7
+2018.32.02 10:32:00  STEP 1: Go to http://store.demoqa.com/
+2018.32.02 10:32:03  STEP 1: Go to http://store.demoqa.com/
+2018.32.02 10:32:03  End of Step 1
+2018.32.02 10:32:03  STEP 2: Go to Product category and select Accessories
+2018.32.02 10:32:06  STEP 2: Go to Product category and select Accessories
+2018.32.02 10:32:06  End of Step 2
+2018.32.02 10:32:06  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.32.02 10:32:06  # of items displaying in the cart before: 0
+2018.32.02 10:32:06  # of items displaying in the cart after: 0
+2018.32.02 10:32:06  # of items added to cart: 1
+2018.32.02 10:32:06  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.32.02 10:32:06  End of step 3 
+2018.32.02 10:32:06  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.32.02 10:32:09  # of items displaying in the cart after wait: 1
+2018.32.02 10:32:11  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.32.02 10:32:11  End of Step 4 & Step 5 combination
+2018.32.02 10:32:11  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.32.02 10:32:20  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.32.02 10:32:20  Error while executing Step 6
+2018.32.02 10:32:20  End of Step 6
+2018.32.02 10:32:20  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.32.02 10:32:20  Checkout Failed
+2018.32.02 10:32:20  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.32.02 10:32:20  End of Step 7
+2018.32.02 10:32:22  STEP 1: Go to http://store.demoqa.com/
+2018.32.02 10:32:26  STEP 1: Go to http://store.demoqa.com/
+2018.32.02 10:32:26  End of Step 1
+2018.32.02 10:32:26  STEP 2: Go to Product category and select Accessories
+2018.32.02 10:32:29  STEP 2: Go to Product category and select Accessories
+2018.32.02 10:32:29  End of Step 2
+2018.32.02 10:32:29  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.32.02 10:32:29  # of items displaying in the cart before: 0
+2018.32.02 10:32:29  # of items displaying in the cart after: 0
+2018.32.02 10:32:29  # of items added to cart: 1
+2018.32.02 10:32:29  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.32.02 10:32:29  End of step 3 
+2018.32.02 10:32:29  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.32.02 10:32:33  # of items displaying in the cart after wait: 1
+2018.32.02 10:32:35  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.32.02 10:32:35  End of Step 4 & Step 5 combination
+2018.32.02 10:32:35  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.32.02 10:32:47  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.32.02 10:32:57  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.32.02 10:32:57  End of Step 6
+2018.32.02 10:32:57  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.32.02 10:32:57  Checkout Successful
+2018.32.02 10:32:57  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.32.02 10:32:57  End of Step 7
+2018.32.02 10:32:59  STEP 1: Go to http://store.demoqa.com/
+2018.33.02 10:33:03  STEP 1: Go to http://store.demoqa.com/
+2018.33.02 10:33:03  End of Step 1
+2018.33.02 10:33:03  STEP 2: Go to Product category and select Accessories
+2018.33.02 10:33:07  STEP 2: Go to Product category and select Accessories
+2018.33.02 10:33:07  End of Step 2
+2018.33.02 10:33:07  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.33.02 10:33:07  # of items displaying in the cart before: 0
+2018.33.02 10:33:07  # of items displaying in the cart after: 0
+2018.33.02 10:33:07  # of items added to cart: 1
+2018.33.02 10:33:07  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.33.02 10:33:07  End of step 3 
+2018.33.02 10:33:07  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.33.02 10:33:10  # of items displaying in the cart after wait: 1
+2018.33.02 10:33:12  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.33.02 10:33:12  End of Step 4 & Step 5 combination
+2018.33.02 10:33:12  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.33.02 10:33:30  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.33.02 10:33:40  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.33.02 10:33:40  End of Step 6
+2018.33.02 10:33:40  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.33.02 10:33:40  Checkout Successful
+2018.33.02 10:33:40  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.33.02 10:33:40  End of Step 7
+2018.33.02 10:33:43  STEP 1: Go to http://store.demoqa.com/
+2018.33.02 10:33:49  STEP 1: Go to http://store.demoqa.com/
+2018.33.02 10:33:49  End of Step 1
+2018.33.02 10:33:49  STEP 2: Go to Product category and select Accessories
+2018.33.02 10:33:53  STEP 2: Go to Product category and select Accessories
+2018.33.02 10:33:53  End of Step 2
+2018.33.02 10:33:53  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.33.02 10:33:53  # of items displaying in the cart before: 0
+2018.33.02 10:33:53  # of items displaying in the cart after: 0
+2018.33.02 10:33:53  # of items added to cart: 1
+2018.33.02 10:33:53  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.33.02 10:33:53  End of step 3 
+2018.33.02 10:33:53  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.33.02 10:33:55  # of items displaying in the cart after wait: 1
+2018.33.02 10:33:58  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.33.02 10:33:58  End of Step 4 & Step 5 combination
+2018.33.02 10:33:58  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.34.02 10:34:10  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.34.02 10:34:20  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.34.02 10:34:20  End of Step 6
+2018.34.02 10:34:20  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.34.02 10:34:20  Checkout Successful
+2018.34.02 10:34:20  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.34.02 10:34:20  End of Step 7
+2018.34.02 10:34:23  STEP 1: Go to http://store.demoqa.com/
+2018.34.02 10:34:29  STEP 1: Go to http://store.demoqa.com/
+2018.34.02 10:34:29  End of Step 1
+2018.34.02 10:34:29  STEP 2: Go to Product category and select Accessories
+2018.34.02 10:34:33  STEP 2: Go to Product category and select Accessories
+2018.34.02 10:34:33  End of Step 2
+2018.34.02 10:34:33  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.34.02 10:34:33  # of items displaying in the cart before: 0
+2018.34.02 10:34:33  # of items displaying in the cart after: 0
+2018.34.02 10:34:33  # of items added to cart: 1
+2018.34.02 10:34:33  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.34.02 10:34:33  End of step 3 
+2018.34.02 10:34:33  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.34.02 10:34:36  # of items displaying in the cart after wait: 1
+2018.34.02 10:34:38  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.34.02 10:34:38  End of Step 4 & Step 5 combination
+2018.34.02 10:34:38  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.34.02 10:34:47  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.34.02 10:34:47  Error while executing Step 6
+2018.34.02 10:34:47  End of Step 6
+2018.34.02 10:34:47  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.34.02 10:34:47  Checkout Failed
+2018.34.02 10:34:47  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.34.02 10:34:47  End of Step 7
+2018.34.02 10:34:50  STEP 1: Go to http://store.demoqa.com/
+2018.34.02 10:34:56  STEP 1: Go to http://store.demoqa.com/
+2018.34.02 10:34:57  End of Step 1
+2018.34.02 10:34:57  STEP 2: Go to Product category and select Accessories
+2018.35.02 10:35:00  STEP 2: Go to Product category and select Accessories
+2018.35.02 10:35:00  End of Step 2
+2018.35.02 10:35:00  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.35.02 10:35:00  # of items displaying in the cart before: 0
+2018.35.02 10:35:01  # of items displaying in the cart after: 0
+2018.35.02 10:35:01  # of items added to cart: 1
+2018.35.02 10:35:01  STEP 3: Click on “Add to Cart” for just Magic Mouse
+2018.35.02 10:35:01  End of step 3 
+2018.35.02 10:35:01  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.35.02 10:35:03  # of items displaying in the cart after wait: 1
+2018.35.02 10:35:06  STEP 4: Click on “Checkout” and confirm you have 1 Magic Mouse in your Check-Out Page &&  STEP 5: After confirming, click on Continue combination
+2018.35.02 10:35:06  End of Step 4 & Step 5 combination
+2018.35.02 10:35:06  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.35.02 10:35:13  STEP 6: Enter test (dummy) data needed for email, billing/contact details and click Purchase
+2018.35.02 10:35:13  Error while executing Step 6
+2018.35.02 10:35:13  End of Step 6
+2018.35.02 10:35:13  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.35.02 10:35:13  Checkout Failed
+2018.35.02 10:35:13  STEP 7: Confirm that you have placed the Order in ‘Transaction Results’ page
+2018.35.02 10:35:13  End of Step 7
+2018.58.02 10:58:37  STEP 1: Go to http://store.demoqa.com/
+2018.58.02 10:58:37  Error while executing STEP 1: Go to http://store.demoqa.com/
+2018.58.02 10:58:37  End of Step 1
+2018.58.02 10:58:37  STEP 2: Go to Product category and select Accessories
